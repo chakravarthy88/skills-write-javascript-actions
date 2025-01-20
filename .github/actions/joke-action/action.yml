@@ -1,0 +1,4 @@
+name: "my joke"
+runs:
+  using: "node16"
+  main: "main.js"
